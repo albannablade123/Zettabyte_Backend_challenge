@@ -1,6 +1,6 @@
 # Zettabyte_Backend_challenge
 
-This is a submission for Zettabyte backend challenge.
+This is a submission for Zettabyte backend challenge. The stack used is NodeJs, Express and Mongoose to access mongodb database. 
 
 ## Setting Up
 Git clone the repository and then install dependencies by running 
